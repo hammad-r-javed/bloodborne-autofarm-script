@@ -5,7 +5,7 @@ Assumes user is emulating BB on Windows using `ShadPS4`.
 * Simple autofarming script for farming Blood Echoes using the `cummmfpk` chalice. It simulates playing by creating key-press events.
 * After 95 runs of the dungeon, will navigate back to the Hunter's Dream to re-stock `Blood Hunter's Marks`, before returning to the dungeon and starting the loop all over again.
 
-## How
+## How?
 ### Setup
 * `ShadPS4` default KBM controls.
 * Make sure chalice has been created at the following chalice dungeon gravestone.
